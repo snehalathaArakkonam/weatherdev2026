@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weather App</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- HEADER -->
+  <header>
+    <h1>Weather</h1>
+    <button id="themeToggle">🌙</button>
+  </header>
+
+  <!-- SEARCH -->
+  <div class="search-box">
+    <input type="text" id="cityInput" placeholder="Search city...">
+    <button id="searchBtn">🔍</button>
+  </div>
+
+  <!-- MAIN CARD -->
+  <div class="card main-card">
+    <h2 id="city">--</h2>
+    <h1 id="temp">--°</h1>
+    <p id="desc">--</p>
+
+    <div class="details">
+      <div>Humidity <span id="humidity"></span></div>
+      <div>Wind <span id="wind"></span></div>
+      <div>Feels <span id="feels"></span></div>
+      <div>Min/Max <span id="minmax"></span></div>
+    </div>
+
+    <p id="suggestion"></p>
+  </div>
+
+  <!-- HOURLY -->
+  <div class="section">
+    <h3>Today</h3>
+    <div id="hourly" class="scroll"></div>
+  </div>
+
+  <!-- FORECAST -->
+  <div class="section">
+    <h3>Next Days</h3>
+    <div id="forecast" class="grid"></div>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
