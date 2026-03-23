@@ -25,6 +25,14 @@ A modern, responsive Weather App built using **HTML, CSS, and Vanilla JavaScript
 
 ---
 
+## 🎯 Key Highlights
+
+- Built a fully responsive weather app from scratch  
+- Integrated real-time API using OpenWeatherMap  
+- Implemented geolocation-based weather detection  
+- Designed modern UI using glassmorphism principles  
+- Optimized performance using async/await
+- 
 ## 🛠️ Tech Stack
 
 * HTML5
