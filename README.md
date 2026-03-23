@@ -32,7 +32,7 @@ A modern, responsive Weather App built using **HTML, CSS, and Vanilla JavaScript
 - Implemented geolocation-based weather detection  
 - Designed modern UI using glassmorphism principles  
 - Optimized performance using async/await
-- 
+  
 ## 🛠️ Tech Stack
 
 * HTML5
