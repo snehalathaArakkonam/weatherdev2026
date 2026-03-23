@@ -6,7 +6,7 @@ A modern, responsive Weather App built using **HTML, CSS, and Vanilla JavaScript
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](PASTE_YOUR_NETLIFY_LINK_HERE)
+👉 [View Live Website](https://weatherdev2026.netlify.app/)
 
 ---
 
