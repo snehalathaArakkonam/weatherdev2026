@@ -3,6 +3,9 @@
 A modern, responsive Weather App built using **HTML, CSS, and Vanilla JavaScript** that provides real-time weather updates and forecasts.
 
 ---
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## 🚀 Live Demo
 
